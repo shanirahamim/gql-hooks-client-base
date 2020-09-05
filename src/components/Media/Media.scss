@@ -1,0 +1,24 @@
+.media{
+    > img{
+        background-size: contain;
+        max-height: 700px;
+        max-width: 700px;
+    }
+    text-align: center;
+    justify-content: center;
+    min-height: 700px;
+    min-width: 700px;
+}
+ 
+.min-media{
+    > img{
+        background-size: contain;
+        max-height: 125px;
+    }
+
+    
+}
+
+.media-item {
+    text-align: center;
+}
